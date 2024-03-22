@@ -1,3 +1,15 @@
+![Layout Etec](https://github.com/henrique151/Site-EtecZL/assets/107218172/69a05b9f-f160-44d2-99da-b15a06129e97)
+
+<h2 align="left">Para compilar o projeto corretamente, devem ser digitados os seguintes códigos:</h2>
+<h4 align="left">1° Abra o XAMPP e ative o Apache e MySQL</h4>
+<h4 align="left">2° Crie o banco de dados chamado Laravel</h4>
+<h4 align="left">3° Abra o terminal e digite:</h4>
+<h4 align="left">4° cd [nome do projeto]</h4>
+<h4 align="left">5° Abra o terminal e digite:</h4>
+<h4 align="left">6° npm run dev</h4>
+<h4 align="left">7° Abra um novo terminal e digite:</h4>
+<h4 align="left">8° php artisan serve</h4>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
